@@ -1,7 +1,6 @@
 .DS_Store
 
 # Build directories
-raytracer-debug/
 build/
 cmake-build-*/
 
